@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "echo \"You must cd to either client or sever directory before running npm start\" && exit 1"
+    "start": "echo \"You must cd to either client or sever directory before running npm start\" && exit 1",
+    "install" : "cd client && npm i && cd ../server && npm i cd .."
   },
   "eslintConfig": {
     "extends": [
