@@ -13,8 +13,8 @@ function Header() {
     <div className="jumbotron jumbotron-fluid text-white mb-0" style={style}>
       <div className="container">
         <img src={logo} alt="" className="ml-4 pb-3 pt-3" />
-        <p className="lead">
-          Eat Good, <em>Eat Fast</em>!
+        <p className="lead" >
+          Eat Good, <em style={{"font-weight": "bold"}}>Eat Fast</em>!
         </p>
       </div>
     </div>

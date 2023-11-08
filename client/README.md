@@ -1,4 +1,4 @@
-# GrubDash Front End Application
+# EatFast Front End Application
 
 ## Installation
 
