@@ -13,7 +13,7 @@ View the deployed page at [Grub-Dash](soon).
 run ```npm install``` in the root folder then change directory to the server folder and run ```npm start```. In a separate terminal, change directory to client and run ```npm start```. 
   
 ### Screenshots
-![soon](soon)
+![screenshot](client/src/images/preview.png)
 soon
 
 ## Questions
