@@ -14,7 +14,6 @@ run ```npm install``` in the root folder then change directory to the server fol
   
 ### Screenshots
 ![screenshot](client/src/images/preview.png)
-soon
 
 ## Questions
 If you have any questions about the repo, please [open an issue](https://github.com/Oscarlosg/EatFast/issues) or contact me via email at oscarlosg14@gmail.com. You can find more of my work on my GitHub, [Oscarlosg](https://github.com/Oscarlosg/).
